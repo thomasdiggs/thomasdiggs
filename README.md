@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a computer scientist and software developer.
+
+I am currently working on various coding and math problems from Codewars.com, AdventofCode.com, and ProjectEuler.com.
+
+I am currently learning the C programming language and web API development with ASP.NET Core 8.
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,c,cs,dotnet,linux" />
