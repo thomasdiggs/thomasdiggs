@@ -9,7 +9,7 @@ I am currently learning the C programming language and web API development with 
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cs,dotnet,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,linux,html,css" />
   </a>
 </p>
 
