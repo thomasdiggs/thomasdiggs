@@ -8,7 +8,7 @@ I am currently learning the C programming language and web API development with 
 
 Check out my <a href="https://affirmationapi-g5abftgteggkhqgj.westus2-01.azurewebsites.net/api/affirmation">web API in ASP.NET Core</a> for an affirmation whenever you need it.
 
-<br />
+<br /><br />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,dotnet,linux,html,css" />
