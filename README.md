@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a computer scientist and software developer.
+I am a computer scientist.
 
 I am currently working on various coding and math problems from Codewars.com, AdventofCode.com, and ProjectEuler.com.
 
