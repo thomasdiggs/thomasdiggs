@@ -2,11 +2,14 @@
 
 I am a computer scientist.
 
-I am currently working on various coding and math problems from Codewars.com, AdventofCode.com, and ProjectEuler.com.
+I am currently working on a NES-style RPG using MonoGame.<br />
+Also, I am working on various coding and math problems from Codewars.com, AdventofCode.com, and ProjectEuler.com.
 
-I am currently learning the C programming language and web API development with ASP.NET Core 8.
+I am currently learning the C programming language and using primarily that language to refresh my knowledge of data structures and algorithms.<br />
+Also, learning more about web API development with ASP.NET Core 8.
 
-Check out my <a href="https://affirmationapi-g5abftgteggkhqgj.westus2-01.azurewebsites.net/api/affirmation">web API in ASP.NET Core</a> for an affirmation whenever you need it.
+Check out my <a href="https://affirmationapi-g5abftgteggkhqgj.westus2-01.azurewebsites.net/api/affirmation">web API in ASP.NET Core</a> for an affirmation whenever you need it.<br />
+Standing a front end up for this soon with CRUD capabilities.
 
 <br /><br />
 <p align="center">
