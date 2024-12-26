@@ -4,3 +4,4 @@ I am a computer scientist! I am a Master of Science in Computer Science candidat
 
 <br />
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
